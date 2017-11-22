@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Look</string>
+
+    <string name="load_msg_default">正在加载</string>
+
+    <!-- 常用字符串 -->
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
 </resources>

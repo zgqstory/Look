@@ -30,11 +30,4 @@ public interface BaseView {
      */
     void toastMessage(String message);
 
-    /**
-     * 获取strings文件中字符串
-     * @param id id
-     * @return string
-     */
-    String getStringById(int id);
-
 }
