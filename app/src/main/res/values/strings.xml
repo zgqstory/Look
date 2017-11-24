@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Look</string>
+    
+    <!-- MainActivity -->
+    <string name="tab_msg_zhihu">知乎</string>
+    <string name="tab_msg_ganhuo">干货</string>
+    <string name="tab_msg_curiosity">好奇心</string>
 
     <string name="load_msg_default">正在加载</string>
 

@@ -13,7 +13,7 @@ import java.util.Stack;
 
 public class ActivityStack {
 
-    private static ActivityStack instance = new ActivityStack();
+    private static ActivityStack instance;
     private static Stack<Activity> activityStack;
 
     private ActivityStack() {}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 定义通用高度属性 -->
+    <dimen name="common_title_height">60dp</dimen>
+
+</resources>
